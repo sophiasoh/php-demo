@@ -153,11 +153,11 @@
     <h1>My Favorite Fruits</h1>
 
 <form method="post">
-  <p>FRUIT 1: <input type="text" name="fruit1" fruit="Fruit 1"></p> <br>
-  <p>FRUIT 2: <input type="text" name="fruit2" fruit="Fruit 2"></p><br>
-  <p>FRUIT 3: <input type="text" name="fruit3" fruit="Fruit 3"></p><br>
-  <p>FRUIT 4: <input type="text" name="fruit4" fruit="Fruit 4"></p><br>
-  <p>FRUIT 5: <input type="text" name="fruit5" fruit="Fruit 5"></p><br><br>
+  <p>FRUIT 1: <input type="text" name="fruit1" placeholder="Fruit 1"></p> <br>
+  <p>FRUIT 2: <input type="text" name="fruit2" placeholder="Fruit 2"></p><br>
+  <p>FRUIT 3: <input type="text" name="fruit3" placeholder="Fruit 3"></p><br>
+  <p>FRUIT 4: <input type="text" name="fruit4" placeholder="Fruit 4"></p><br>
+  <p>FRUIT 5: <input type="text" name="fruit5" placeholder="Fruit 5"></p><br><br>
     
     <button type="submit">SAVE MY FRUITS</button>
 </form>
